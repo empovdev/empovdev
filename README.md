@@ -5,3 +5,4 @@
 - 💬 Ask me about anything
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=empovdev&theme=tokyonight" />
+<img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" >
