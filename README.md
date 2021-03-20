@@ -1,4 +1,4 @@
-### Hi I'm Em  Pov 😐  ######👨‍💻 
+### Hi I'm Em  Pov 😐  ###👨‍💻 
 
 - 💼 I’m currently working at Codeclans 
 - 💻 I use Laravel, PHP, Javascript and now learning Flutter and other Development App 
