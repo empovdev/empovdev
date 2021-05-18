@@ -51,7 +51,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=empovdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[website]: http://lukpheakdey.com/
-[instagram]: https://www.instagram.com/empovdev/
+[website]: empov.ct5kh.com
+[instagram]: https://www.instagram.com/povcambodian/
 [linkedin]: https://www.linkedin.com/in/empovdev/
 [playstore]: https://play.google.com/store/apps/details?id=com.empovdev.curriculumvitaeapp
