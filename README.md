@@ -47,3 +47,4 @@
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=empovdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=empovdev&count_private=true)](https://github.com/heychazza/github-profile-trophy)
