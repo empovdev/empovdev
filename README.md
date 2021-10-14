@@ -7,7 +7,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/empovdev.svg?style=social&label=Followers)](https://github.com/Ahmad-shaikh575?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+EMPOVDEV!;I'm+a+Laravel+Developer...;I'm+also+Machine+Learning+Engineer...;And+I'm+a+proud+Cambodia+🇰🇭)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+EMPOVDEV!;I'm+a+Laravel+Developer...;And+I'm+a+proud+Cambodia+🇰🇭)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=empovdev575&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
