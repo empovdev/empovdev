@@ -13,7 +13,7 @@
 
 <h3> Here's some fun facts about me: </h3>
 
-- 🔭 I’m currently working on Flutter Projects
+- 🔭 I’m currently working on Flutter Projects and Laravel API 
 - 🌱 I've 2 years  of professional experience worked and  built three cross-platform applications in Flutter
 
 <br>
