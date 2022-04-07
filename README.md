@@ -1,139 +1,196 @@
-
-
-
-### Hi there 👋
-
-<img src="https://profile-counter.glitch.me/empovdev/count.svg">
-
-[![GitHub followers](https://img.shields.io/github/followers/empovdev.svg?style=social&label=Followers)](https://github.com/Ahmad-shaikh575?tab=followers)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+EMPOVDEV!;I'm+a+Laravel+Developer...;And+I'm+a+proud+Cambodia+🇰🇭)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=empovdev575&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
-
-<h3> Here's some fun facts about me: </h3>
-
-- 🔭 I’m currently working on Flutter Projects and Laravel API 
-- 🌱 I've 2 years  of professional experience worked and  built three cross-platform applications in Flutter
-
-<br>
-</p>
-- 😄 Pronouns: ... We/Us
-- ⚡ Fun fact: ... I am batman. 😎🦇 
-
-### 🔥 Streak Stats
-
-<hr>
+<!--HELLO EVERYBODY
+WEBSITE:
+https://readme-typing-svg.herokuapp.com/demo/-->
 <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2379A500&size=40&duration=3000&center=true&lines=Hello+Everybody">
+<!--GUMP-->
+<p align="center">
+<img src="https://media.giphy.com/media/QLKSt3wQqlj7a/giphy.gif">
+<!--LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
+<!--ILOVEOPENSOURCE-->
+<p align="center">
+<img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
+<!--SPOTIFY
+WEBSITE:
+https://github.com/kittinan/spotify-github-profile-->
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300">
+<!--PARROTSEMOJI--> 
+<p align="center">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-cambodia.gif" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-cambodia.gif" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-cambodia.gif" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-cambodia.gif" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-cambodia.gif" height="50" width="50">
+<!--LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
+<!--RSS
+TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/.images/marquee.svg TO YOUR REPO AND EDIT IT--> 
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg"> 
+<!--ASCII
+WEBSITE:
+https://asciiart.website/-->
+
+<h4 align="center"> 
+
+ ```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   }\/__-__\/{ Programming isn't about what you know @@
+@@   }(|~o.o~|){  It's about what you can figure out   @@
+@@   }/ \`-'/ \{                                       @@
+@@     _/`U'\_                                         @@
+@@    ( .   . )     .----------------------------.     @@
+@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
+@@   \ |  ,  | /    '----------------------------'     @@
+@@    \|=====|/                                        @@
+@@     |_.^._|                                         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )       Testing leads to failure          @@
+@@     |_| |_|   and failure leads to understanding    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
+</h4> 
+
+<!--RSS-->
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee2.svg">
+<!--LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+<!--STATS
+WEBSITE:
+https://github.com/anuraghazra/github-readme-stats-->
+<p align="center">
+<img src="https://i.imgur.com/YCw47Dm.gif">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=empovdev&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=empovdev&theme=merko&date_format=M%20j%5B%2C%20Y%5D" >
+<!--LANGUAGES
+WEBSITE:
+https://github.com/anuraghazra/github-readme-stats-->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=empovdev&layout=compact&theme=merko">
+
+<!--ACTIVITYGRAPH
+WEBSITE:
+https://github.com/Ashutosh00710/github-readme-activity-graph#customization-->
+<p align="center">
+<img src="https://intense-river-40395.herokuapp.com/graph?username=empovdev&theme=react-dark&custom_title=My%20Profile%20Contribution%20Graph&hide_border=true&color=00d668&line=00d668&point=8b007e">
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=empovdev&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=empovdev&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-
-<hr>
-
-
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=empovdev&theme=gruvbox&hide_border=true&area=true)
-
-
-
-## 🛠️ My Skills
-
-### 👉 Programming languages
-
-<p align="left"> 
-  
-
-  <a href="https://dart.dev/">
-    <img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  </a>
-&emsp;
-<a href="https://python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-  </a>
-  &emsp;
-<a href="https://www.java.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
-
-
-</p>
-
-### 👉 Frameworks
-<p align="left"> 
-&emsp;
-  <a href="https://flutter.dev/" target="_blank"> 
-     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-   </a>
-  &emsp; 
-  <a href="https://www.tensorflow.org/" target="_blank"> 
-   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://keras.io/" target="_blank"> 
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://pytorch.org/" target="_blank"> 
-    <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-  </a>
-</p>
-
-### 👉 Databases & Cloud Hosting
-<p align="left">
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
-  &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  &emsp;
-<a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
- </p>
-
- ### 👉 Software & Tools
+<!--SNAKE
+WEBSITE:
+https://github.com/Platane/snk-->
+<p align="center">
+🐍<img src="https://i.imgur.com/uyzXdOe.gif" width="200">🐍
+<img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg">
+<!--LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
+<!--JOYEMOJI-->
+<p align="center">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30">
+<!--JOKE-->
+<p align="center">
+<img src="https://i.imgur.com/KwHw09D.gif" height="30" width="150">
+<!--JOKECARD-->
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="400">
+<!--WINEEMOJI-->
+<p align="center">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30">
+<!--QUOTES-->
+<p align="center">
+<img src="https://i.imgur.com/OFloXS3.gif" height="30" width="160">
+<!--QUOTESCARD-->
+<p align="center">
+<img src="https://github-readme-quotes.herokuapp.com/quote?theme=merko&animation=grow_out_in&layout=churchill&font=default">
+<!--REFRESHPAGE-->
+<p align="center">
+<a href="https://github.com/empovdev/empovdev">
+<img src="https://i.imgur.com/mGhPUXI.gif" width="200">
+</a>
+<!--LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">  
+<!--CAT-->
+<p align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+<!--INTEREST-->
+<p align="center">
+<img src="https://i.imgur.com/ozEwbHs.gif">
+<!--ICONS-->
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="60">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60">
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
+<!--VIEWS
+WEBSITE:
+https://github.com/antonkomarev/github-profile-views-counter-->
+<h4 align="center"
  
+![](https://komarev.com/ghpvc/?username=empovdev&color=0E9C47&style=for-the-badge)
+
+</h4>
+<!--TROPHY
+WEBSITE:
+https://github.com/ryo-ma/github-profile-trophy-->
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=empovdev&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
+
+<!--METRICS
+WEBSITE:
+https://github.com/lowlighter/metrics-->
+<h4>
+<details><summary><b>𝓟&nbsp;𝓡&nbsp;𝓞&nbsp;𝓕&nbsp;𝓘&nbsp;𝓛&nbsp;𝓔&nbsp;&nbsp; 𝓜&nbsp;𝓔&nbsp;𝓣&nbsp;𝓡&nbsp;𝓘&nbsp;𝓒&nbsp;𝓢<img src="https://media.giphy.com/media/WT5h7PgVSScLLKtMaS/giphy.gif" width=50px height=40px></b></summary>
 <p>
-  &emsp;
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-&emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
-     &emsp;
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
-     &emsp;
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
-    &emsp;
-     <a href="#"><img alt="TFigma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
-    &emsp; <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
-    &emsp;
-    
+<p align="center">
+<img src="https://raw.githubusercontent.com/empovdev/empovdev/main/github-metrics.svg">
 </p>
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=empovdev&theme=gruvbox" />
+</details>
 
 
-<br/>
+<!--LINE--> 
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+<!--THEME
+WEBSITE:
+https://fancytext.blogspot.com/-->
+<h4 align="left"> 
+ 
+╔═&nbsp;&nbsp;👀 𝕐&nbsp;𝕆&nbsp;𝕌&nbsp;ℝ&nbsp;&nbsp;𝕋&nbsp;ℍ&nbsp;𝔼&nbsp;𝕄&nbsp;𝔼&nbsp;&nbsp;𝕄&nbsp;𝕆&nbsp;𝔻&nbsp;𝔼 👀
+<h4>
+<h4 align="left">  
+ 
+╚═════ &nbsp;𝐈𝐓'𝐒 [𝐃𝐀𝐑𝐊⚫](https://github.com/settings/appearance#gh-dark-mode-only)[𝐁𝐑𝐈𝐆𝐇𝐓⚪](https://github.com/settings/appearance#gh-light-mode-only) 𝐈𝐍 𝐇𝐄𝐑𝐄...
+<h4> 
+ 
+ 
+<!--
+**trinib/trinib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-------
-Credit: [Ahmad-shaikh575](https://github.com/Ahmad-shaikh575)
-Last Edited on: 08/09/2021
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
